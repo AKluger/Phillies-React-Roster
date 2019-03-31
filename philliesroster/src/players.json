@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Jose Alvarez",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/501625.jpg",
+    "occupation": "Pitcher"
+  },
+  {
+    "id": 2,
+    "name": "Jake Arrieta",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/453562.jpg"
+  },
+  {
+    "id": 3,
+    "name": "J.T. Realmuto",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/592663.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bryce Harper",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/547180.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Andrew McCutchen",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/457705.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rhys Hoskins",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/656555.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Aaron Nola",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/605400.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Maikel Franco",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/596748.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jean Segura",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/516416.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Odubel Herrera",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/546318.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Scott Kingery",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/664068.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cesar Hernandez",
+    "image": "https://securea.mlb.com/mlb/images/players/head_shot/514917.jpg"
+  }
+]

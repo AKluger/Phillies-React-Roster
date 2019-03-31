@@ -1,0 +1,14 @@
+.container {
+    padding-top: 50px;
+    background: #ECEFF1;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: center;
+    align-content: flex-start;
+    overflow: auto;
+    /* background-color: #d3d3d3; */
+background-image: linear-gradient(315deg, #d3d3d3 0%, #ee5253 74%);
+
+  }
