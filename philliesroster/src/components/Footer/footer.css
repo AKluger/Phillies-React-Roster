@@ -1,0 +1,16 @@
+.footer {
+    min-height: 60px;
+    text-align: center;
+    background-color:#00215b;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+}
+
+.footer-link {
+    color: white;
+    font-weight: bold;
+}
